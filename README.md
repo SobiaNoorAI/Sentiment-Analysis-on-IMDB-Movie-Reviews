@@ -127,15 +127,20 @@ IMDb-Sentiment-Analysis/
 
 ## 🔹 Requirements
 Ensure you have the following Python libraries installed:
-
+```
 pip install numpy pandas matplotlib seaborn scikit-learn nltk wordcloud
+```
+---
 ## 📦 Installation Guide
 
 1. **Clone the repository**
 ```bash
 git clone https://github.com/yourusername/Sentiment-Analysis-on-IMDB-Movie-Reviews.git
 cd Sentiment-Analysis-on-IMDB-Movie-Reviews
+```
+---
 ## 🤝 Contributing
 Feel free to fork the repo, submit issues, or create pull requests.
+---
 ## 📄 License
 Distributed under the MIT License. See LICENSE for more information
