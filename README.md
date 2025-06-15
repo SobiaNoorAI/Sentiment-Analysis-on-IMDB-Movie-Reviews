@@ -112,17 +112,17 @@ The dataset contains an equal number of positive and negative reviews.
 | Recall     | 86%             |
 
 ---
-
+```
 ## 📁 Project Structure
 IMDb-Sentiment-Analysis/
 │
-├── data/
+├── Data/
 │ └── IMDB Dataset.csv
 ├── notebooks/
 │ └── Sentiment_Analysis_By_Classification_Model.ipynb
 ├── LICENSE
 └── README.md
-
+```
 ---
 
 ## 🔹 Requirements
