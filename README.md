@@ -75,10 +75,11 @@ The dataset contains an equal number of positive and negative reviews.
 - Data split: 80% training, 20% testing
 - Model: **Multinomial Naïve Bayes**
 - Evaluation Metrics:
-  - Accuracy
-  - Precision
-  - Recall
+  - Accuracy 85%
+  - Precision 84%
+  - Recall 86%
   - Confusion Matrix
+<img width="567" height="450" alt="image" src="https://github.com/user-attachments/assets/406873f6-0ee9-45db-9c20-794fd695f0d7" />
 
 ---
 
