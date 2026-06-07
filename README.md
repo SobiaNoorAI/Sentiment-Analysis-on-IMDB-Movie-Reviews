@@ -89,7 +89,7 @@ The dataset contains an equal number of positive and negative reviews.
 <img width="554" height="391" alt="image" src="https://github.com/user-attachments/assets/172a9f9a-b4e7-4506-a42f-fed4b479397d" />
 
 - Word clouds for positive & negative reviews
-- Confusion matrix heatmap
+<img width="857" height="237" alt="image" src="https://github.com/user-attachments/assets/abd0c46b-5ac6-424b-b640-269164a98935" />
 
 ---
 
