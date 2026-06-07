@@ -86,6 +86,8 @@ The dataset contains an equal number of positive and negative reviews.
 ## 📊 Visualizations
 
 - Sentiment distribution (Bar Plot)
+<img width="554" height="391" alt="image" src="https://github.com/user-attachments/assets/172a9f9a-b4e7-4506-a42f-fed4b479397d" />
+
 - Word clouds for positive & negative reviews
 - Confusion matrix heatmap
 
